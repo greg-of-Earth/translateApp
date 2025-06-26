@@ -11,6 +11,10 @@ h1, h2, h3, .bold {
   font-family: 'Poppins', sans-serif;
 }
 
+.blueShadow {
+  box-shadow: 3px 3px 0 0 #93c5fd;
+}
+
 .specialBtn {
   background: white;
   box-shadow: 0px 14px 55px rgba(96, 165, 255, 0.35);
@@ -30,7 +34,7 @@ h1, h2, h3, .bold {
   animation-delay: -4s;
 }
 
-.loading1 {
+.loading2 {
   animation-delay: -2s;
 }
 
